@@ -88,4 +88,4 @@ This is a local reference implementation. At larger scale the same contracts can
 
 ## License
 
-MIT © 2026 David Falcon
+MIT © 2026 David
